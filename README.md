@@ -64,3 +64,40 @@
   - Linked entities from a well known knowledge base
   - Named Entity Recognition
   - Sentiment
+
+## Azure Bot Service
+- Create a resource - Web App Bot
+- Chose template - Basic Bot
+- Open Resource
+- From left Menu click - "Test in Web Chat"
+
+## QnA Maker
+- A replacement to FAQ
+- Can be enabled with AI
+- Create a resource in Azure - QnA Maker. Name - agqna21
+- Goto Resource
+- Copy API key
+- Open QnA Maker Portal - https://www.qnamaker.ai/Create
+- Complete Step 2, 3, 4
+  - For Knowledge Base generation Refer
+    - https://www.microsoft.com/en-in/software-download/faq
+- Click - 'Save and Train'
+- Click Test
+  - Sample Questions
+    - How to find Product key?
+    - Difference in different version of Windows
+    - Is it bootable?
+    - I need windows 10. Where is it?
+- Click - Publish
+- Click - Create Bot named - agkbboat1
+-  Test the Bot
+- Integrate Bot
+  - Click - Channels
+  - Click Get Embed Codes
+  - Click - "Click here to open the Web Chat configuration page"
+  - Copy 'Embed Code'
+  - Create a simple html file and paste the code there
+    - myknowledgebase.html
+  - Also put the Secret keys in HTML file
+  - Open HTML file in any browser
+  - Ask questions from Bot
