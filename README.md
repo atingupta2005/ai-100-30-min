@@ -30,7 +30,7 @@
 - Specify that key value in - 'Ocp-Apim-Subscription-Key' input field
 - Specify URL to any image in 'Request Body'
 
-- Normal Images:
+#### Normal Images:
 - [Image 1](https://www.isixsigma.com/wp-content/uploads/2019/09/The-Importance-of-Sample-Size.jpg)
 ```
 https://www.isixsigma.com/wp-content/uploads/2019/09/The-Importance-of-Sample-Size.jpg
@@ -56,7 +56,7 @@ https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Diamond_Core.jpeg/1200
 https://the-sample-room.com/assets/images/062617sample082ret.png
 ```
 
-- Images containing Text for OCR:
+#### Images containing Text for OCR:
 - [Image 1](https://images.indianexpress.com/2020/04/coronavirus-testing.jpg)
 ```
 https://images.indianexpress.com/2020/04/coronavirus-testing.jpg
