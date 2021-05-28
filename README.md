@@ -30,39 +30,39 @@
 - Specify that key value in - 'Ocp-Apim-Subscription-Key' input field
 - Specify URL to any image in 'Request Body'
 
-- Normal Images
-  - [Image 1](https://www.isixsigma.com/wp-content/uploads/2019/09/The-Importance-of-Sample-Size.jpg)
+- Normal Images:
+- [Image 1](https://www.isixsigma.com/wp-content/uploads/2019/09/The-Importance-of-Sample-Size.jpg)
 ```
 https://www.isixsigma.com/wp-content/uploads/2019/09/The-Importance-of-Sample-Size.jpg
 ```
 
-  - [Image 2](https://www.cameraegg.org/wp-content/uploads/2013/02/Leica-M-Sample-Image.jpg)
+- [Image 2](https://www.cameraegg.org/wp-content/uploads/2013/02/Leica-M-Sample-Image.jpg)
 ```
 https://www.cameraegg.org/wp-content/uploads/2013/02/Leica-M-Sample-Image.jpg
 ```
 
-  - [Image 3](http://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2018/05/mars_sample_return/17493376-1-eng-GB/Mars_sample_return_pillars.jpg)
+- [Image 3](http://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2018/05/mars_sample_return/17493376-1-eng-GB/Mars_sample_return_pillars.jpg)
 ```
 http://www.esa.int/var/esa/storage/images/esa_multimedia/videos/2018/05/mars_sample_return/17493376-1-eng-GB/Mars_sample_return_pillars.jpg
 ```
 
-  - [Image 4](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Diamond_Core.jpeg/1200px-Diamond_Core.jpeg)
+- [Image 4](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Diamond_Core.jpeg/1200px-Diamond_Core.jpeg)
 ```
 https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Diamond_Core.jpeg/1200px-Diamond_Core.jpeg
 ```
 
-  - [Image 5](https://the-sample-room.com/assets/images/062617sample082ret.png)
+- [Image 5](https://the-sample-room.com/assets/images/062617sample082ret.png)
 ```
 https://the-sample-room.com/assets/images/062617sample082ret.png
 ```
 
-- Images containing Text for OCR
-  - [Image 1](https://images.indianexpress.com/2020/04/coronavirus-testing.jpg)
+- Images containing Text for OCR:
+- [Image 1](https://images.indianexpress.com/2020/04/coronavirus-testing.jpg)
 ```
 https://images.indianexpress.com/2020/04/coronavirus-testing.jpg
 ```
 
-  - [Image 2](https://blog-images.pharmeasy.in/2020/10/31170828/blog-new-size-1.jpg)
+- [Image 2](https://blog-images.pharmeasy.in/2020/10/31170828/blog-new-size-1.jpg)
 ```
 https://blog-images.pharmeasy.in/2020/10/31170828/blog-new-size-1.jpg
 ```
