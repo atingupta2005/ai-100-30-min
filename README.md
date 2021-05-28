@@ -46,12 +46,12 @@ https://www.isixsigma.com/wp-content/uploads/2019/09/The-Importance-of-Sample-Si
   ```
 
   - OCR
-```
-https://images.indianexpress.com/2020/04/coronavirus-testing.jpg
-```
-```
-https://blog-images.pharmeasy.in/2020/10/31170828/blog-new-size-1.jpg
-```
+  ```
+  https://images.indianexpress.com/2020/04/coronavirus-testing.jpg
+  ```
+  ```
+  https://blog-images.pharmeasy.in/2020/10/31170828/blog-new-size-1.jpg
+  ```
 
   ```
   https://the-sample-room.com/assets/images/062617sample082ret.png
