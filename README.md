@@ -17,8 +17,7 @@
 - Analyzing Forms with the Form Recognizer Service
 
 ### Hands-On
-- Refer
-  - https://uksouth.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-2/operations/5d986960601faab4bf452005/console
+- Refer [Computer Vision Console](https://uksouth.dev.cognitive.microsoft.com/docs/services/computer-vision-v3-2/operations/5d986960601faab4bf452005/console)
   - From Left, Select the Computer Vision Service we want to use. We will try below services:
     - Analyze Image
     - Describe Image
@@ -70,7 +69,7 @@ https://blog-images.pharmeasy.in/2020/10/31170828/blog-new-size-1.jpg
 - LUIS Service
 
 ### Hands-On - Text Analytics
-- Refer [Azure Text Analytics Services](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-0/operations/Languages)
+- Refer [Text Analytics Services Console](https://westus.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-0/operations/Languages)
 - Select the desired service from Left Menu
 - Select location - UK South
 - Specify that key value in - 'Ocp-Apim-Subscription-Key' input field
